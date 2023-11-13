@@ -16,3 +16,7 @@
 /node_modules
 /npm-debug.log
 .history/
+/private
+/public
+/profile
+/settings
